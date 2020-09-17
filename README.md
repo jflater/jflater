@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Jared Flater and I'm a PhD student in the Department of Agriculture and Biosystems Engineering at Iowa State University. 
 
+🔭 I’m currently working on exploring bacterial communties in soils of various agricultural and conservation areas. 
 <!--
 **jflater/jflater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
